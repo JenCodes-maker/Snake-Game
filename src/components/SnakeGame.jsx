@@ -3,7 +3,6 @@ import Particles from "react-tsparticles";
 import eatSound from "../assets/sounds/eat.mp3";
 import gameOverSound from "../assets/sounds/gameover.mp3";
 import bgMusic from "../assets/sounds/bgmusic.mp3";
-import "./styles.css"
 const boardSize = 20;
 
 const SnakeGame = () => {
