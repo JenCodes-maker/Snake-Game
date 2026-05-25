@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
-import Particles from "react-tsparticles";
+import Particles from "@tsparticles/react";
 import eatSound from "../assets/sounds/eat.mp3";
 import gameOverSound from "../assets/sounds/gameover.mp3";
 import bgMusic from "../assets/sounds/bgmusic.mp3";
