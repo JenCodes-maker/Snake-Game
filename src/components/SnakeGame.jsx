@@ -21,7 +21,7 @@ const [explode, setExplode] = useState(false);
   const [started, setStarted] = useState(false);
   const [paused, setPaused] = useState(false);
   const [theme, setTheme] = useState("neon");
-  const [speed, setSpeed] = useState(150);
+  const [speed] = useState(150);
   const [obstacles] = useState([
   [10, 10],
   [12, 12],
